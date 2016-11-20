@@ -1,0 +1,2 @@
+# clickvote
+Collect Opinions Easily!
